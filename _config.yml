@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Site settings
 name: Arturo Perez
 email: perezarturo94@outlook.com
@@ -31,3 +32,8 @@ color:
 # Build settings
 markdown: kramdown
 permalink: pretty
+=======
+theme: jekyll-theme-architect
+title: Arturo Perez
+description: Computer Programmer
+>>>>>>> 0b3850e2eb103f343231559fe8afb53b36bc1b62
